@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mmedynskyi.myicons.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mmedynskyi.myicons.MyBundle
 
 class MyApplicationService {
 
